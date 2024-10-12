@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.alex.discovery</groupId>
-	<artifactId>discoveryservice</artifactId>
+	<artifactId>discovery-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>discoveryservice</name>
+	<name>discovery-service</name>
 	<description>Discovery service for cars app project</description>
 	<properties>
 		<java.version>17</java.version>
